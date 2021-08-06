@@ -93,11 +93,12 @@ a:hover {
     left: 0;
     right: 0;
 }
-
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
+}
 
+#bloc-6::before {
     background-color:rgb(107, 63, 49);
 }
 
