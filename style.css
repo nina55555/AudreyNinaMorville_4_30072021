@@ -48,6 +48,8 @@ a:hover {
     padding: 100px 50px;
 }
 
+
+
 .bloc-md {
     padding: 50px;
 }
@@ -95,6 +97,8 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
+
+    background-color:rgb(107, 63, 49);
 }
 
 .b-parallax {
