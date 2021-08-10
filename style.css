@@ -831,6 +831,7 @@ h4 {
     background-image: url("img/la-chouette-agence-banniere-2.jpg");
 }
 
+
 .bg-presentation {
     background-image: url("img/image-de-presentation-2.bmp");
 }
@@ -856,6 +857,10 @@ h4 {
     .nav-center.navbar .nav {
         max-width: 100%
     }
+    .bg-banniere {
+        background-image: url("img/la-chouette-agence-banniere-ipad.jpg");
+    }
+    
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
