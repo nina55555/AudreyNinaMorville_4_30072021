@@ -829,6 +829,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere-iphone.jpg");
+    width: 100%;
 }
 
 
